@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "googleapis": "^153.0.0",
+    "node-cron": "^4.2.1",
+    "puppeteer": "^24.14.0"
+  },
+  "name": "get_data_using_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape-airtrade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
